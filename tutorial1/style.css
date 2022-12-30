@@ -1,0 +1,21 @@
+body {
+  background-color: teal;
+}
+
+.body-red {
+  background-color: rgb(53, 72, 93);
+}
+
+div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+button {
+}
